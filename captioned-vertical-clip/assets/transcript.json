@@ -1,0 +1,224 @@
+[
+  {
+    "text": "I",
+    "start": 0.01,
+    "end": 0.06,
+    "id": "w0"
+  },
+  {
+    "text": "made",
+    "start": 0.06,
+    "end": 0.31,
+    "id": "w1"
+  },
+  {
+    "text": "this",
+    "start": 0.36,
+    "end": 0.6,
+    "id": "w2"
+  },
+  {
+    "text": "video",
+    "start": 0.6,
+    "end": 0.93,
+    "id": "w3"
+  },
+  {
+    "text": "without",
+    "start": 0.93,
+    "end": 1.36,
+    "id": "w4"
+  },
+  {
+    "text": "opening",
+    "start": 1.44,
+    "end": 1.87,
+    "id": "w5"
+  },
+  {
+    "text": "a",
+    "start": 1.87,
+    "end": 1.93,
+    "id": "w6"
+  },
+  {
+    "text": "video",
+    "start": 1.93,
+    "end": 2.26,
+    "id": "w7"
+  },
+  {
+    "text": "editor.",
+    "start": 2.26,
+    "end": 2.72,
+    "id": "w8"
+  },
+  {
+    "text": "I",
+    "start": 2.73,
+    "end": 2.8,
+    "id": "w9"
+  },
+  {
+    "text": "gave",
+    "start": 2.8,
+    "end": 3.14,
+    "id": "w10"
+  },
+  {
+    "text": "Claude",
+    "start": 3.14,
+    "end": 3.66,
+    "id": "w11"
+  },
+  {
+    "text": "Opus",
+    "start": 3.66,
+    "end": 4,
+    "id": "w12"
+  },
+  {
+    "text": "5.51",
+    "start": 4,
+    "end": 5.04,
+    "id": "w13"
+  },
+  {
+    "text": "prompt.",
+    "start": 5.04,
+    "end": 5.62,
+    "id": "w14"
+  },
+  {
+    "text": "It",
+    "start": 5.63,
+    "end": 5.88,
+    "id": "w15"
+  },
+  {
+    "text": "wrote",
+    "start": 5.88,
+    "end": 6.55,
+    "id": "w16"
+  },
+  {
+    "text": "HTML",
+    "start": 6.55,
+    "end": 7.1,
+    "id": "w17"
+  },
+  {
+    "text": "and",
+    "start": 7.1,
+    "end": 7.28,
+    "id": "w18"
+  },
+  {
+    "text": "hyperframes",
+    "start": 7.28,
+    "end": 7.94,
+    "id": "w19"
+  },
+  {
+    "text": "rendered",
+    "start": 7.94,
+    "end": 8.42,
+    "id": "w20"
+  },
+  {
+    "text": "it",
+    "start": 8.42,
+    "end": 8.56,
+    "id": "w21"
+  },
+  {
+    "text": "to",
+    "start": 8.56,
+    "end": 8.7,
+    "id": "w22"
+  },
+  {
+    "text": "MP4.",
+    "start": 8.84,
+    "end": 9.56,
+    "id": "w23"
+  },
+  {
+    "text": "The",
+    "start": 9.57,
+    "end": 9.79,
+    "id": "w24"
+  },
+  {
+    "text": "captions,",
+    "start": 9.79,
+    "end": 10.56,
+    "id": "w25"
+  },
+  {
+    "text": "the",
+    "start": 10.56,
+    "end": 10.77,
+    "id": "w26"
+  },
+  {
+    "text": "voice,",
+    "start": 10.77,
+    "end": 11.27,
+    "id": "w27"
+  },
+  {
+    "text": "the",
+    "start": 11.28,
+    "end": 11.51,
+    "id": "w28"
+  },
+  {
+    "text": "motion,",
+    "start": 11.51,
+    "end": 12.04,
+    "id": "w29"
+  },
+  {
+    "text": "all",
+    "start": 12.29,
+    "end": 12.37,
+    "id": "w30"
+  },
+  {
+    "text": "local.",
+    "start": 12.37,
+    "end": 13,
+    "id": "w31"
+  },
+  {
+    "text": "Here",
+    "start": 13.01,
+    "end": 13.3,
+    "id": "w32"
+  },
+  {
+    "text": "is",
+    "start": 13.3,
+    "end": 13.45,
+    "id": "w33"
+  },
+  {
+    "text": "the",
+    "start": 13.45,
+    "end": 13.67,
+    "id": "w34"
+  },
+  {
+    "text": "exact",
+    "start": 13.67,
+    "end": 14.02,
+    "id": "w35"
+  },
+  {
+    "text": "recipe.",
+    "start": 14.09,
+    "end": 14.72,
+    "id": "w36"
+  }
+]
